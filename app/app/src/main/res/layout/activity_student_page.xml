@@ -16,8 +16,9 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
-        android:id="@+id/textView"
+        android:id="@+id/txtChampNum"
         android:layout_marginTop="155dp"
+        android:layout_marginRight="20dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true" />
 
@@ -26,17 +27,17 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
-        android:id="@+id/textView2"
+        android:id="@+id/txtWarsawNum"
         android:layout_centerVertical="true"
-        android:layout_alignLeft="@+id/textView" />
+        android:layout_alignLeft="@+id/txtChampNum" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
-        android:id="@+id/textView3"
+        android:id="@+id/txtGraceNum"
         android:layout_marginTop="88dp"
-        android:layout_below="@+id/textView2"
-        android:layout_alignLeft="@+id/textView2" />
+        android:layout_below="@+id/txtWarsawNum"
+        android:layout_alignLeft="@+id/txtWarsawNum" />
 </RelativeLayout>
