@@ -63,7 +63,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#217#242#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,8 +73,8 @@
       <file leaf-file-name="activity_student_page.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app/src/main/res/layout/activity_student_page.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23308271" vertical-offset="182" max-vertical-offset="850">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.4473684" vertical-offset="85" max-vertical-offset="884">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -492,7 +494,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#217#242#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,7 +522,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#217#242#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -532,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app/src/main/res/layout/activity_student_page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23308271" vertical-offset="182" max-vertical-offset="850">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.4473684" vertical-offset="85" max-vertical-offset="884">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding />
         </state>
       </provider>
