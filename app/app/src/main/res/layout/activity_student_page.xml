@@ -7,7 +7,7 @@
     <ImageView
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:src="@drawable/Student_Page"
+        android:src="@drawable/student_page"
         android:scaleType="fitXY"
         />
 
