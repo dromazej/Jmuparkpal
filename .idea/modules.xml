@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jmuparkpal.iml" filepath="$PROJECT_DIR$/Jmuparkpal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/app/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/app/src/main/main.iml" />
     </modules>
   </component>
 </project>
