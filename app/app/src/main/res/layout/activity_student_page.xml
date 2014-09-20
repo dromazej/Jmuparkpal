@@ -16,6 +16,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
+        android:textColor="@color:"
         android:id="@+id/txtChampNum"
         android:layout_marginTop="155dp"
         android:layout_marginRight="20dp"
